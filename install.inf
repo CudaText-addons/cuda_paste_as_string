@@ -1,0 +1,11 @@
+[info]
+title=Paste as String
+desc=Pastes text from Clipboard as "string" for current lexer
+type=cudatext-plugin
+subdir=cuda_paste_as_string
+homepage=https://github.com/CudaText-addons/cuda_paste_as_string
+
+[item1]
+section=commands
+caption=Paste as String
+method=paste
